@@ -1,7 +1,5 @@
 {
   "list": [
     { "id": 1, "title": "list 1", "cards": [{"id": 10, "c_title":"happy"}, {"id": 20, "c_title":"sad"}] },
-    { "id": 2, "title": "list 2", "cards": [] },
-    { "id": 3, "title": "list 3", "cards": [] }
   ]
 }
